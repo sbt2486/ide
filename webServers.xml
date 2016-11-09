@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="405b32e1-3346-4587-9dbe-b72c2ac653b6" name="btdevserver" url="http://bt.dev.office.md-systems.ch">
+        <fileTransfer host="bt.dev.office.md-systems.ch" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/data/bt/bt.dev.office.md-systems.ch/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAoJLUcHS1CTTD/B7c02AOzDs/SMSkQaQsEgNSAXnYqzCHGPYWIco4Icg0kWKEgWCNVuZDFR1btLUI4djNBNHsU9Bia8ofzbgQJljKNNM44KavfNGDsMjZnBOgbRd5vqLH1Em6ak0i4XSYfCooka3/Fk56VDnzXved+rOFUlfMcKWIa4+QvQKU7T6u9SNWBAw+edE/ZWOCgTHyZWs+l3Ut8Q0p5y1ZEcVAdPbTuBoSBSl7</data>
+  </component>
+</application>

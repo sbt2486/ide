@@ -1,0 +1,37 @@
+<application>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="SCSS" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="sass-stdlib">
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
+
