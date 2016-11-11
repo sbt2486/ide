@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
     <option name="defaultScopeName" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
     <option name="SEARCH_SCOPE" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,13 +12,13 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.css</mask>
       <mask>*.yml</mask>
       <mask>*.bat</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.twig</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
