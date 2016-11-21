@@ -20,6 +20,7 @@
       <mask>*.twig</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
+      <mask>*.libraries.yml</mask>
     </recentFileMasks>
   </component>
 </application>
