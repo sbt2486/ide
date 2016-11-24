@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +14,6 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.yml</mask>
       <mask>*.bat</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
@@ -21,6 +21,7 @@
       <mask>*.scss</mask>
       <mask>*.css</mask>
       <mask>*.libraries.yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
