@@ -18,10 +18,13 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.twig</mask>
-      <mask>*.scss</mask>
       <mask>*.css</mask>
+<<<<<<< HEAD
       <mask>*.libraries.yml</mask>
       <mask>*.yml</mask>
+=======
+      <mask>*.scss</mask>
+>>>>>>> refs/heads/master
     </recentFileMasks>
   </component>
 </application>
