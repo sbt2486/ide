@@ -1,10 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
-    <option name="defaultScopeName" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
     <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -12,19 +7,12 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.bat</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
-      <mask>*.twig</mask>
+      <mask>*.as</mask>
       <mask>*.css</mask>
-<<<<<<< HEAD
-      <mask>*.libraries.yml</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
       <mask>*.yml</mask>
-=======
-      <mask>*.scss</mask>
->>>>>>> refs/heads/master
     </recentFileMasks>
   </component>
 </application>
