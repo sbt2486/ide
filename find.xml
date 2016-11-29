@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
     <option name="defaultScopeName" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[portfolio] - .../www/modules/custom/pf_custom'" />
     <recentFileMasks>
       <mask>*.properties</mask>
