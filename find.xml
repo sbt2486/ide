@@ -18,6 +18,7 @@
       <mask>*.twig</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
