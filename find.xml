@@ -6,12 +6,15 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.yml</mask>
+      <mask>table</mask>
+      <mask>*.js</mask>
+      <mask>*.services.yml</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
