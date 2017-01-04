@@ -11,6 +11,7 @@
       <mapping pattern=".htaccess.localhost" type="PLAIN_TEXT" />
       <mapping pattern="_images.scss" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd.localhost" type="PLAIN_TEXT" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
