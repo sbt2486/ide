@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.services.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,10 +13,10 @@
       <mask>*.php</mask>
       <mask>table</mask>
       <mask>*.js</mask>
-      <mask>*.services.yml</mask>
       <mask>*.scss</mask>
       <mask>*.module</mask>
       <mask>*.yml</mask>
+      <mask>*.services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
