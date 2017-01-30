@@ -12,11 +12,10 @@
       <mask>*.php</mask>
       <mask>table</mask>
       <mask>*.js</mask>
-      <mask>*.services.yml</mask>
-      <mask>*.module</mask>
-      <mask>*.twig</mask>
       <mask>*.scss</mask>
+      <mask>*.module</mask>
       <mask>*.yml</mask>
+      <mask>*.services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
