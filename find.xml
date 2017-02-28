@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,11 +14,17 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>table</mask>
-      <mask>*.js</mask>
-      <mask>*.scss</mask>
       <mask>*.module</mask>
+      <mask>*yml</mask>
       <mask>*.yml</mask>
+      <mask>*routing.yml</mask>
+      <mask>*permission.yml</mask>
+      <mask>*permissions.yml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.js</mask>
+      <mask>*.schema.yml</mask>
+      <mask>*.menu.yml</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
