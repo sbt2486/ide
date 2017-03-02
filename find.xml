@@ -7,7 +7,6 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>table</mask>
@@ -21,6 +20,7 @@
       <mask>*.js</mask>
       <mask>*.schema.yml</mask>
       <mask>*.menu.yml</mask>
+      <mask>*.css</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
