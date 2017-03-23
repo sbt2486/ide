@@ -8,6 +8,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="yfd" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.localhost" type="PLAIN_TEXT" />
       <mapping pattern="_images.scss" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd.localhost" type="PLAIN_TEXT" />
