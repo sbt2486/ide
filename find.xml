@@ -7,14 +7,21 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>table</mask>
-      <mask>*.js</mask>
+      <mask>*.module</mask>
+      <mask>*yml</mask>
+      <mask>*.yml</mask>
+      <mask>*routing.yml</mask>
+      <mask>*permission.yml</mask>
+      <mask>*permissions.yml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.schema.yml</mask>
+      <mask>*.menu.yml</mask>
+      <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

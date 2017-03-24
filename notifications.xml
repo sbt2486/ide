@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Database editor log" displayType="NONE" />
     <notification groupId="Database refactoring log" displayType="NONE" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
