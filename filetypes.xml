@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="yfd" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.localhost" type="PLAIN_TEXT" />
+      <mapping pattern="_images.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd.localhost" type="PLAIN_TEXT" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
