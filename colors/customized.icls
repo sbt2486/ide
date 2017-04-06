@@ -829,8 +829,8 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="edd70d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="11ed" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
