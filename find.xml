@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*yml</mask>
       <mask>*.yml</mask>
       <mask>*routing.yml</mask>
       <mask>*permission.yml</mask>
@@ -18,7 +17,6 @@
       <mask>.s</mask>
       <mask>.sc</mask>
       <mask>.scs</mask>
-      <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>sc</mask>
       <mask>scs</mask>
@@ -36,7 +34,9 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
+      <mask>*s.css</mask>
       <mask>*.scss</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
