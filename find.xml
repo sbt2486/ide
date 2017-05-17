@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.menu.yml</mask>
-      <mask>.s</mask>
-      <mask>.sc</mask>
       <mask>.scs</mask>
       <mask>sc</mask>
       <mask>scs</mask>
@@ -25,7 +23,6 @@
       <mask>*.css</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>s</mask>
       <mask>scss</mask>
       <mask>*scss</mask>
@@ -34,6 +31,10 @@
       <mask>*.scssss</mask>
       <mask>*.scsss</mask>
       <mask>*.scss</mask>
+      <mask>*.jscss</mask>
+      <mask>*.jsss</mask>
+      <mask>*.jss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
