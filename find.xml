@@ -17,7 +17,6 @@
       <mask>scss</mask>
       <mask>*scss</mask>
       <mask>*.scssscss</mask>
-      <mask>*.scsscss</mask>
       <mask>*.scssss</mask>
       <mask>*.scsss</mask>
       <mask>*.jscss</mask>
@@ -34,6 +33,7 @@
       <mask>*.scssml</mask>
       <mask>*.scssl</mask>
       <mask>*.css</mask>
+      <mask>*.scsscss</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
