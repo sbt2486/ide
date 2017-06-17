@@ -1,5 +1,6 @@
 <code_scheme name="Drupal">
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <PHPCodeStyleSettings>
     <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
     <option name="UPPER_CASE_NULL_CONST" value="true" />
@@ -13,6 +14,9 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
