@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>s</mask>
-      <mask>scss</mask>
-      <mask>*scss</mask>
-      <mask>*.scssscss</mask>
-      <mask>*.scssss</mask>
-      <mask>*.scsss</mask>
       <mask>*.jscss</mask>
       <mask>*.jsss</mask>
       <mask>*.jss</mask>
@@ -30,10 +24,16 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>s</mask>
+      <mask>.</mask>
+      <mask>.s</mask>
+      <mask>.sc</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
