@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.json" />
     <recentFileMasks>
-      <mask>*.jscss</mask>
-      <mask>*.jsss</mask>
-      <mask>*.jss</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>syml</mask>
-      <mask>*.scssyml</mask>
-      <mask>*.scssml</mask>
-      <mask>*.scssl</mask>
-      <mask>*.css</mask>
-      <mask>*.scsscss</mask>
-      <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
@@ -34,6 +22,19 @@
       <mask>.scs</mask>
       <mask>.scss</mask>
       <mask>*.scss</mask>
+      <mask>c</mask>
+      <mask>co</mask>
+      <mask>com</mask>
+      <mask>comp</mask>
+      <mask>compo</mask>
+      <mask>compos</mask>
+      <mask>compose</mask>
+      <mask>composer</mask>
+      <mask>composer.</mask>
+      <mask>composer.j</mask>
+      <mask>composer.js</mask>
+      <mask>composer.jso</mask>
+      <mask>composer.json</mask>
     </recentFileMasks>
   </component>
 </application>
