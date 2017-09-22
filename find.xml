@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>.sc</mask>
-      <mask>.scs</mask>
-      <mask>.scss</mask>
-      <mask>co</mask>
-      <mask>com</mask>
-      <mask>comp</mask>
-      <mask>compo</mask>
-      <mask>compos</mask>
       <mask>compose</mask>
       <mask>composer</mask>
       <mask>composer.</mask>
@@ -21,19 +14,27 @@
       <mask>composer.json</mask>
       <mask>c</mask>
       <mask>cs</mask>
-      <mask>css</mask>
       <mask>*css</mask>
       <mask>*.css</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>sc</mask>
-      <mask>s</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>scss</mask>
+      <mask>css</mask>
+      <mask>ss</mask>
+      <mask>s</mask>
+      <mask>.w</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
