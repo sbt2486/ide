@@ -5,17 +5,14 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>composer.j</mask>
-      <mask>composer.js</mask>
-      <mask>composer.jso</mask>
       <mask>composer.json</mask>
       <mask>c</mask>
       <mask>cs</mask>
       <mask>*css</mask>
       <mask>*.css</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>sc</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -31,11 +28,15 @@
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>*.scss</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
