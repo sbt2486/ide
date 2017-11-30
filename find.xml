@@ -5,23 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>composer.json</mask>
-      <mask>c</mask>
-      <mask>cs</mask>
-      <mask>*css</mask>
-      <mask>*.css</mask>
-      <mask>*.j</mask>
-      <mask>sc</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>scss</mask>
-      <mask>css</mask>
-      <mask>ss</mask>
-      <mask>s</mask>
-      <mask>.w</mask>
       <mask>.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
@@ -33,10 +17,25 @@
       <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.li</mask>
+      <mask>*.lib</mask>
+      <mask>*.libr</mask>
+      <mask>*.libra</mask>
+      <mask>*.librare</mask>
+      <mask>*.librar</mask>
+      <mask>*.librari</mask>
+      <mask>*.librarie</mask>
+      <mask>*.libraries</mask>
+      <mask>*.libraries.</mask>
+      <mask>*.libraries.y</mask>
+      <mask>*.libraries.ym</mask>
+      <mask>*.libraries.yml</mask>
     </recentFileMasks>
   </component>
 </application>
