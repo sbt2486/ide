@@ -3,13 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.scss</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
@@ -19,21 +16,25 @@
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.li</mask>
-      <mask>*.lib</mask>
-      <mask>*.libr</mask>
-      <mask>*.libra</mask>
       <mask>*.librare</mask>
-      <mask>*.librar</mask>
       <mask>*.librari</mask>
       <mask>*.librarie</mask>
       <mask>*.libraries</mask>
       <mask>*.libraries.</mask>
       <mask>*.libraries.y</mask>
-      <mask>*.libraries.ym</mask>
       <mask>*.libraries.yml</mask>
+      <mask>*.libraries.ym</mask>
+      <mask>*.librar</mask>
+      <mask>*.libra</mask>
+      <mask>*.libr</mask>
+      <mask>*.lib</mask>
+      <mask>*.li</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
