@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*</mask>
       <mask>*.h</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
@@ -28,12 +23,18 @@
       <mask>*.lib</mask>
       <mask>*.li</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>yn</mask>
+      <mask>y</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
