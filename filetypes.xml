@@ -16,6 +16,7 @@
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.live" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
