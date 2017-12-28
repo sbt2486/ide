@@ -4,36 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jscss</mask>
-      <mask>*.jsss</mask>
-      <mask>*.jss</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>syml</mask>
-      <mask>*.scssyml</mask>
-      <mask>*.scssml</mask>
-      <mask>*.scssl</mask>
-      <mask>*.css</mask>
-      <mask>*.scsscss</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
+      <mask>*.h</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
       <mask>*.j</mask>
+      <mask>*.librare</mask>
+      <mask>*.librari</mask>
+      <mask>*.librarie</mask>
+      <mask>*.libraries</mask>
+      <mask>*.libraries.</mask>
+      <mask>*.libraries.y</mask>
+      <mask>*.libraries.yml</mask>
+      <mask>*.libraries.ym</mask>
+      <mask>*.librar</mask>
+      <mask>*.libra</mask>
+      <mask>*.libr</mask>
+      <mask>*.lib</mask>
+      <mask>*.li</mask>
+      <mask>*.l</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>yn</mask>
+      <mask>y</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>s</mask>
-      <mask>.</mask>
-      <mask>.s</mask>
-      <mask>.sc</mask>
-      <mask>.scs</mask>
-      <mask>.scss</mask>
-      <mask>*.scss</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
