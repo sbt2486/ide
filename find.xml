@@ -34,8 +34,8 @@
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.scss</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
