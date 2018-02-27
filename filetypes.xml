@@ -18,6 +18,7 @@
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
