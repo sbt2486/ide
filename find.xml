@@ -5,12 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.libraries.yml" />
     <recentFileMasks>
       <mask>*.librarie</mask>
       <mask>*.libraries</mask>
       <mask>*.libraries.</mask>
       <mask>*.libraries.y</mask>
-      <mask>*.libraries.yml</mask>
       <mask>*.libraries.ym</mask>
       <mask>*.librar</mask>
       <mask>*.libra</mask>
@@ -36,6 +36,7 @@
       <mask>*.yml</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.libraries.yml</mask>
     </recentFileMasks>
   </component>
 </application>
