@@ -32,8 +32,8 @@
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
       <mask>*.libraries.yml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
