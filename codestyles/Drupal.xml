@@ -1,4 +1,4 @@
-<code_scheme name="Drupal">
+<code_scheme name="Drupal" version="173">
   <option name="RIGHT_MARGIN" value="80" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <PHPCodeStyleSettings>
@@ -84,7 +84,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
