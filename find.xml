@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.librarie</mask>
       <mask>*.libraries</mask>
@@ -21,7 +22,6 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
-      <mask>*.json</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.ss</mask>
@@ -34,6 +34,7 @@
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
