@@ -3,37 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.libraries</mask>
-      <mask>*.libraries.</mask>
-      <mask>*.libraries.y</mask>
-      <mask>*.libraries.ym</mask>
-      <mask>*.librar</mask>
-      <mask>*.libra</mask>
-      <mask>*.libr</mask>
-      <mask>*.lib</mask>
-      <mask>*.li</mask>
-      <mask>*.l</mask>
-      <mask>yn</mask>
-      <mask>y</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.jso</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.ss</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.libraries.yml</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
-      <mask>*.json</mask>
-      <mask>*.scss</mask>
-      <mask>*.twig</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.yml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
