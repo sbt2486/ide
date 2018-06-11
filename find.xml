@@ -15,7 +15,7 @@
     <mask>*.php</mask>
     <mask>*.services.yml</mask>
     <mask>*.libraries.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
