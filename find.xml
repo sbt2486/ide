@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +19,8 @@
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
-    <mask>composer.json</mask>
     <mask>*info.yml</mask>
     <mask>*routing.yml</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
