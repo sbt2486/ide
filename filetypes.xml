@@ -8,17 +8,18 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="yfd" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.localhost" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="_images.scss" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd.localhost" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="yfd" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.live" type="PLAIN_TEXT" />
-      <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping pattern="_images.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.localhost" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="origin" type="Perl" />
     </extensionMap>
   </component>
