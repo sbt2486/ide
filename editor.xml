@@ -5,4 +5,18 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="InspectionProfileManager">
+    <info color="9a5d00">
+      <option name="FOREGROUND" value="ff9e00" />
+      <option name="BACKGROUND" value="52503a" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+      <option name="ERROR_STRIPE_COLOR" value="9a5d00" />
+      <option name="myName" value="Coding Style issue" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="Coding Style issue" />
+      <option name="myDefaultAttributes">
+        <option name="ERROR_STRIPE_COLOR" value="9a5d00" />
+      </option>
+    </info>
+  </component>
 </application>
