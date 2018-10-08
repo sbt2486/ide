@@ -20,9 +20,9 @@
     <mask>*info.yml</mask>
     <mask>*routing.yml</mask>
     <mask>composer.json</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
